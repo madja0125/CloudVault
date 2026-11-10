@@ -99,7 +99,6 @@ CloudVault/
 ├── app.py
 ├── templates/
 │   └── index.html
-├── screenshots/
 ├── README.md
 └── requirements.txt
 ```
@@ -117,25 +116,7 @@ CloudVault/
 - Virtualization
 - Web Hosting
 
----
 
-## 📸 Screenshots
-
-Add screenshots here:
-
-### Application Running
-
-![CloudVault Screenshot](screenshots/cloudvault-home.png)
-
-### Docker Containers
-
-![Docker Screenshot](screenshots/docker-running.png)
-
-### Ubuntu Server
-
-![Ubuntu Screenshot](screenshots/ubuntu-server.png)
-
----
 
 ## 📈 Future Enhancements
 
